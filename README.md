@@ -9,5 +9,5 @@
 
 <h3>Things I code with sometimes:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,pytorch,js,html,css,raspberrypi,linux,selenium,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,raspberrypi,linux,selenium,tensorflow,pytorch" />
   </a>
